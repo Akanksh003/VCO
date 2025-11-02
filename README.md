@@ -16,4 +16,4 @@ frequency synthesis, demodulation, and clock generation. PLLs provide precise da
 reception and decoding, making them the foundation of digital communication networks.
 With an emphasis on their analysis and simulation using LTspice software, this study
 examines the fundamentals of VCOs, design concerns, and simulation methodologies
-that facilitate their growt
+that facilitate their growth.
